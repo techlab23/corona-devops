@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Use custom profile name if applicable otherwise leave it blank. 
-#Usage: ./get-autoscaling-ips AWSProfileName
+#Usage: ./get-autoscaling-ips.sh AWSProfileName
 
 if [ $1 ]
 then
